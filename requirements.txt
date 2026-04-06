@@ -1,0 +1,6 @@
+google-adk>=1.0.0
+google-cloud-firestore>=2.16.0
+google-cloud-aiplatform>=1.57.0
+fastapi>=0.111.0
+uvicorn>=0.30.1
+python-dotenv>=1.0.1
