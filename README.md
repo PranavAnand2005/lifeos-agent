@@ -11,7 +11,7 @@ One message triggers multiple specialist agents simultaneously:
 
 ## Tech Stack
 - Google ADK (Agent Development Kit)
-- Gemini 1.5 Flash (Vertex AI)
+- Gemini-2.5-flash (Vertex AI)
 - Cloud Firestore
 - Google Cloud Run
 
